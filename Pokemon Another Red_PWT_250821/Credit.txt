@@ -1,0 +1,331 @@
+Pokemon: Another Red
+Made by YOUNG
+
+Inspired by
+Pokemon: Slowpoke Shack
+Pokemon: Golden Glazed
+
+Pokemon Essentials was created by
+Poccil (Peter O.)
+Maruno
+Inspired by work by Flameguru
+
+With contributions from:
+AvatarMonkeyKirby, Boushy, Brother1440, FL., Genzai Kawakami,
+Golisopod User, help-14, IceGod64, Jacob O. Wobbrock, KitsuneKouta,
+Lisa Anthony, Luka S.J., Marin, MiDas Mike, Near Fantastica,
+PinkMan, Popper, Rataime, Savordez, SoundSpawn,
+the__end, Venom12, Wachunga
+
+Name       = Deluxe Battle Kit 
+Version    = 1.2.6
+Essentials = 21.1
+Website    = https://lucidious89-tutorials.gitbook.io/deluxe-battle-kit-tutorial
+Credits    = Lucidious89
+
+Name         = [DBK] Enhanced Battle UI
+Version      = 2.0.7
+Essentials   = 21.1
+Website      = https://lucidious89-tutorials.gitbook.io/deluxe-battle-kit-tutorial/deluxe-battle-kit-for-v21.1/add-on-tutorials/enhanced-battle-ui
+Credits      = Lucidious89
+
+Name       = [DBK] Z-Power
+Version    = 1.1
+Essentials = 21.1
+Website    = https://lucidious89-tutorials.gitbook.io/deluxe-battle-kit-tutorial/deluxe-battle-kit-for-v21.1/add-on-tutorials/z-power
+Credits    = Lucidious89
+
+Name       = [DBK] Dynamax
+Version    = 1.1.1
+Essentials = 21.1
+Website    = https://lucidious89-tutorials.gitbook.io/deluxe-battle-kit-tutorial/deluxe-battle-kit-for-v21.1/add-on-tutorials/dynamax
+Credits    = Lucidious89
+
+Name       = [DBK] Terastallization
+Version    = 1.1.4
+Essentials = 21.1
+Website    = https://lucidious89-tutorials.gitbook.io/deluxe-battle-kit-tutorial/deluxe-battle-kit-for-v21.1/add-on-tutorials/terastallization
+Credits    = Lucidious89
+
+Name       = [DBK] Improved Item AI
+Version    = 1.0.1
+Essentials = 21.1
+Website    = https://lucidious89-tutorials.gitbook.io/deluxe-battle-kit-tutorial/deluxe-battle-kit-for-v21.1/add-on-tutorials/improved-item-ai
+Credits    = Lucidious89
+
+Name       = [DBK] Animated Pokémon System
+Version    = 1.0.9
+Essentials = 21.1
+Conflicts  = Generation 8 Pack Scripts,1.0
+Website    = https://lucidious89-tutorials.gitbook.io/deluxe-battle-kit-tutorial/deluxe-battle-kit-for-v21.1/add-on-tutorials/animated-pokemon-system
+Credits    = Lucidious89,Golisopod User,Luka S.J.
+############################################################
+# Sprite Credits
+############################################################
+# Battler Sprites
+#-----------------------------------------------------------
+#   Gen 1-5: Luka S.J.
+#   Gen 6: All Contributors To Smogon X/Y Sprite Project
+#   Gen 7: All Contributors To Smogon Sun/Moon Sprite Project
+#   Gen 8: All Contributors To Smogon Sword/Shield Sprite Project
+#   Gen 9: All Contributors To Smogon Scarlet/Violet Sprite Project
+#   Contributors to the original "Sprites Animados" spanish plugin:
+#     Tenshi of War, DPertierra, Skyflyer, Hellfire_raptor, Antiant, AshnixsLaw, AyanoCloud, Azrita, BR0DE0, Caruban, Creobnil, DanEx, Diegotoon20, dimbly, ekurepu, Ebaru, EricLostie, Falcon7, Federico97_ez, Fleimer_, Franark122k, Hellfire0raptor, HM100, HyperactiveFlummi, iametrine, Involuntary-Twitch, ItsYugen, jinta, justnyxnow, KingOfThe-X-Roads, kiriaura, Legitimate Username, localghost, lucasomi, MallowOut, mangalos810, MCH4R1Z4RD, N-Kin, NoelleMBrooks, Noobiess, Nolo33, OldSoulja, OmegalingYT, PKMarioG, PomPomKing, Poki Papillon, PumpkinPastel, RetroNC, RadicalCharizard, seleccion, SelenaArmorclaw, SkidMarc25, Snivy101, Sopita_Yorita, SoulWardenInfinity, TheAetherPlayer, TheCynicalPoet, Typhlito, uppababy
+#   Other Contributors: Lucidious89, Regis, Rod, Kayzering, LcorpOfficial
+#-----------------------------------------------------------
+# Icon Sprites
+#-----------------------------------------------------------
+#   Gen 1-6: Alaguesia, harveydentmd
+#   Gen 7: Marin, MapleBranchWing, Contributors to the DS Styled Gen 7+ Repository
+#   Gen 8: Larry Turbo, Leparagon
+#   Gen 1-8 (Shiny): StarrWolf, Pokemon Shattered Light Team
+#   PLA Icons: LuigiTKO
+#   Gen 9: ezerart, JordanosArt
+#   Resource Compilation: Golisopod User, UberDunsparce, Caruban
+#-----------------------------------------------------------
+# Footprint Sprites
+#-----------------------------------------------------------
+#   Gen 6: भाग्य ज्योति
+#   Gen 7-8: WolfPP
+#   Gen 9 & PLA: Caruban
+#   Resource Compilation: komeiji514
+#-----------------------------------------------------------
+Aditional FIX by YOUNG
+
+Name       = Modular UI Scenes
+Version    = 2.0.8
+Essentials = 21.1
+Website    = https://eeveeexpo.com/resources/1325/
+Credits    = Lucidious89
+
+Name       = [MUI] Enhanced Pokemon UI
+Version    = 1.0.6
+Essentials = 21.1
+Website    = https://eeveeexpo.com/resources/1387/
+Credits    = Lucidious89
+
+Name         = Automatic Level Scaling
+Version      = 1.6.3
+Essentials   = 20, 20.1, 21, 21.1
+Website      = https://github.com/Benitex/Automatic-Level-Scaling
+Credits      = Benitex, Joltik, Umbreon
+Additional Fix by YOUNG
+
+Name         = Delta Speed Up
+Version      = 1.2
+Essentials   = 21.1
+Website      = https://reliccastle.com/threads/7145
+Credits      = Marin (og speed up script), Phantombass (19.1 version), Mashirosakura, Golisopod User, D0vid (v21.1 version), Manurocker95(bug fixes)
+
+Name       = Encounter List UI
+Version    = 1.1.0
+Essentials = 21.1
+Website    = https://reliccastle.com/resources/658/
+Credits    = ThatWelshOne_,raZ,Marin,Maruno,Nuri Yuri,PurpleZaffre,Savordez,Vendily
+
+Name       = ENLS's Fancy Camera
+Version    = 1.0.0
+Essentials = 21.1, 21
+Website    = https://enls.eu/
+Credits    = ENLS
+
+Name       = [v21.1] Factory NPC Trainer Rentals
+Version    = 1.0.0
+Essentials = 21.1
+Credits    = Usagimi
+
+Name       = Following Pokemon EX
+Version    = 2.3.1
+Essentials = 21.1
+Website    = https://eeveeexpo.com/resources/516/
+Credits    = Nononever, Golisopod User, Help-14, zingzags, Rayd12smitty, Venom12, mej71, PurpleZaffre, Akizakura16, Thundaga, Armin (Fairies Resource Pack), Maruno
+
+Name       = Frontier Plus
+Version    = 1.0.0
+Essentials = 21.1
+Credits    = Swdfm
+
+Name = Generation 9 Pack
+Version = 3.3.1
+Essentials = 21.1
+Website = https://www.eeveeexpo.com/threads/5817/
+Credits = Caruban
+
+Name         = Luka's Scripting Utilities
+Version      = 4.0.2
+Essentials   = 21.1
+Website      = https://luka-sj.com/res/luts
+Credits      = Luka S.J.
+
+Name         = NPB's Battle UI v21.1
+Version      = 7
+Essentials   = 21.1
+Credits      = No pro bro,BiggusWeeabus,Taiga,Ardicoozer(for v21.1 script)
+
+Name         = Overworld Shadows
+Version      = 1.0.1
+Essentials   = 21.1
+Website      = https://luka-sj.com/res/owsh
+Credits      = Luka S.J.,Marin
+
+Name       = Pokedex Evolution Page
+Version    = 1.0
+Essentials = 21.1
+Credits    = ChampChar110
+
+Name       = PWT System (E21)
+Version    = 1.0.5
+Essentials = 21.1
+Credits    = Luka S.J., DerxwnaKapsyla, Vendily, Manurocker95
+
+Name       = Sun Script
+Version    = 1.0.0
+Essentials = 21.1
+Credits    = NonoNever, Polectron
+Aditional Fix by YOUNG
+
+Name       = Swdfm Utilities
+Essentials = 21
+Version    = 2024.10.30
+Website    = none
+Credits    = Swdfm
+
+Name         = Ultimate Move Tutor
+Version      = 1.5
+Essentials   = 21.1, 20.1
+Credits      = Grogro
+
+Name       = v21.1 Hotfixes
+Version    = 1.0.9
+Essentials = 21.1
+Conflicts  = v19 Hotfixes
+Conflicts  = v19.1 Updates
+Conflicts  = v20 Hotfixes
+Conflicts  = v20.1 Hotfixes
+Conflicts  = v21 Hotfixes
+Website    = https://github.com/Maruno17/pokemon-essentials
+Credits    = Maruno
+
+Name         = Voltseon's Pause Menu
+Essentials   = 21.1
+Version      = 2.2
+Website      = https://eeveeexpo.com/resources/692/
+Credits      = Voltseon, Golisopod User, ENLS
+
+Name         = Wonder Trade
+Version      = 1.0
+Essentials   = 20, 20.1, 21, 21.1
+Website      = https://reliccastle.com/resources/1428/
+Credits      = Dr.Doom76
+
+MAP BY
+
+[Map Pack Remastered Kanto and Johto Overworld and Caves, with Bonus Beta maps and Music]
+~ Original FRLG maps ~
+
+GameFreak,JohtoBlaziken
+
+
+~ Johto Caves ~
+
+Earthescape/Orbitender
+
+
+~ Tiles ~
+
+GameFreak,SirMalo's HGSS Rips for RMXP,La Pampa - Epic Adventures > Tileset from Pokemon Epic Adventures La Pampa https://pokemonworkshop.com/forum/index.php?topic=409,
+Kyledove - Some overworld tiles,SailorVicious - Some overworld tiles,hek-el-grande, light-pa, zerudez, phyromatical - Lava/volcanic tiles,
+Flurmimon - A few cave tiles,Rayquaza Dot - Some overworld tiles,ChaoticCherryCake - Truck from Public Tiles,
+DeepBluePacificWaves - HGSS Water
+
+~ Map modifications and 50/60's Kanto ~
+
+AenaonDusky, from PS: The First Journey
+
+
+~ Music ~
+Gamefreak,FRLG Midis ripped by MarinaraSauce,Remastered and rearranged by AenaonDusky
+
+
+
+
+[Maps Kanto, Johto, Hoenn RMXP map packs]
+Some of Kanto & Johto made by : BenGames,Films, and More!
+Hoenn Made by : Jorinho
+Used Tileset Outside Emerald
+
+
+Accurate FRLG-style NPC Megapack
+Maribel Hearn and Renko Usami sprites courtesy of Hemoglobin_A1C Playable Characters in Touhoumon fangames.,
+HGSS OWs in FR Style courtesy of Delta231, Mimi, M.vit, and Kimoras.,
+Accurate Fire Red Overworld Sprite ResourceAvatar: Psychic Male, Rich Boy, Cue Ball Dismounted,
+Aveontrainer: Lass, a lot of bases for Emerald's Overworld Sprites,
+Daman: Professor Ivy, Professor Ivy's Assistant,
+Kalarie: Aroma Lady, Blackbelt, Burglar, Crush Girl, Dragon Tamer, Engineer, Juggler, Lady, Pokémon Breeder, Psychic Female, Rocker, Tamer, Twin, Young Couple, All Anime Sprites,
+MrDollSteak: Cue Ball, Cue Ball Dismounted, Painter, PokéManiac, Pokémon Ranger Male, Pokémon Ranger Female,
+Pokésho: Various First Frames of Anime Overworld Sprites,
+Spherical Ice: Biker Dismounted, Bird Keeper, Expert Male, Expert Female, Kindler, Ruin Maniac,
+FRLG Pokédude Backsprite Ripped by Tsuka,
+Koiking Player Sprites courtesy of pixiv,
+FRLG Style RSE NPCs, ORAS Brendan and May courtesy of Poffin_Case,
+Gen 4 and 5 Trainer sprites and PBS Courtesy of Mr. Gela/theo#7722,
+FRLG Cynthia, Hilbert, Hilda, Ethan and Lyra Sprites courtesy of Pokésho, Marnic, Reign, and KisiroKitsune,
+TR Grunt courtesy of Othienka,
+Brendan and May Extra Sprites courtesy of GreenWithAwesome / 15avaughn,
+HGSS Ethan and Lyra Back Sprites 0.2; Ripped by Tsuka from Spriters Resource. Original graphics by Game Freak. Formatted by Ozander.,
+PUBLIC OrAs Protagonists GBA Back and Front Sprites by Solo993; Additional Front Sprites by hyo-oppa,
+
+
+
+HGSS MAP KIT
+NikNaks93
+
+
+ADDITIONAL TILSET BY
+Cinna, lichenprincess
+
+
+CHARACTER SPRITE BY
+aveontrainer,CyberStryke7,Lolw3e932,
+xDracolich,PurpleZaffre,YOUNG
+
+
+
+TRAINER SPRITE BY
+GeroisBlackboots,kyledove,Brumirage,
+Beliot419,Gnomowladny,mid117,Sophocles,
+Miused,ShiningStar5022,PIXAI,YOUNG
+
+
+
+ORIGINAL MUSIC BY
+YOUNG
+
+
+TEST PLAY BY
+강멍꿀
+공
+Chromatica
+
+
+Special Thanks to
+강멍꿀
+
+
+mkxp-z by:
+Roza
+Based on mkxp by Ancurio et al.
+
+RPG Maker XP by:
+Enterbrain
+
+Pokémon is owned by:
+add_names_to_creditsret,
+The Pokémon Company
+Nintendo
+Affiliated with Game Freak
+
+
+This is a non-profit fan-made game.
+No copyright infringements intended.
+Please support the official games!
